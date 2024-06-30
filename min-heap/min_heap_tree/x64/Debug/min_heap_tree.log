@@ -1,0 +1,4 @@
+﻿  min_heap_tree.cpp
+C:\Users\HP\source\repos\min_heap_tree\min_heap_tree\min_heap_tree.cpp(124): warning C4715: 'binary_tree_node::del': not all control paths return a value
+C:\Users\HP\source\repos\min_heap_tree\min_heap_tree\min_heap_tree.cpp(112): warning C4715: 'binary_tree_node::insert': not all control paths return a value
+  min_heap_tree.vcxproj -> C:\Users\HP\source\repos\min_heap_tree\x64\Debug\min_heap_tree.exe

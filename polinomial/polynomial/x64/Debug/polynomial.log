@@ -1,0 +1,6 @@
+﻿  polynomial.cpp
+C:\Users\HP\source\repos\polynomial\polynomial\polynomial.cpp(35,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\source\repos\polynomial\polynomial\polynomial.cpp(76,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\source\repos\polynomial\polynomial\polynomial.cpp(87,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\source\repos\polynomial\polynomial\polynomial.cpp(321,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  polynomial.vcxproj -> C:\Users\HP\source\repos\polynomial\x64\Debug\polynomial.exe
